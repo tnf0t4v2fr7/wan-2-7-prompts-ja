@@ -97,6 +97,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [wan-2-7-api-ja](https://github.com/tnf0t4v2fr7/wan-2-7-api-ja)
+- **Same model, other languages** — 9 more language builds: 中文 `wan-2-7-api-cn` · Deutsch `wan-2-7-api-de` · Español [wan-2-7-api-es](https://github.com/jqcwg/wan-2-7-api-es) · Français [wan-2-7-api-fr](https://github.com/jtyth8d82sy1wf/wan-2-7-api-fr) · Relay/gateway [wan-2-7-api-gateway](https://github.com/jlx8f1v/wan-2-7-api-gateway) · Bahasa [wan-2-7-api-id](https://github.com/pkppwt9/wan-2-7-api-id) · 한국어 [wan-2-7-api-ko](https://github.com/k-dnu/wan-2-7-api-ko) · Português [wan-2-7-api-pt](https://github.com/g8fuswr/wan-2-7-api-pt) · Русский `wan-2-7-api-ru`
+- **More models in this language** — [midjourney-api-ja](https://github.com/apimartt1q/midjourney-api-ja) · [gemini-2-5-flash-image-preview-api-ja](https://github.com/ic7skkh/gemini-2-5-flash-image-preview-api-ja) · [nano-banana-api-ja](https://github.com/e4ylndl3g-v/nano-banana-api-ja) · [gemini-3-1-flash-image-preview-api-ja](https://github.com/gv4ju/gemini-3-1-flash-image-preview-api-ja) · [nano-banana-2-api-ja](https://github.com/lpbxkrzbfel/nano-banana-2-api-ja) · [gemini-3-pro-image-preview-api-ja](https://github.com/zzsxs8r/gemini-3-pro-image-preview-api-ja)
+- **Topic hubs** — every build of this model, all languages: [wan-2-7](https://github.com/topics/wan-2-7) · [wan-2-7-api](https://github.com/topics/wan-2-7-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
